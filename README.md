@@ -12,8 +12,15 @@ Spotify sets a minimum window size of 800x600. If your tiling layout gives it le
 
 ## Install
 
-Install it from the Spicetify Marketplace, or manually:
+### Spicetify Marketplace
 
-1. Copy `tiled-window-fix.js` into your Spicetify `Extensions` folder.
-2. Run `spicetify config extensions tiled-window-fix.js`
-3. Run `spicetify apply`
+1. Open the Marketplace tab in Spotify.
+2. Search for "Tiled Window Fix".
+3. Click Install.
+
+### Manual
+
+1. Download `tiled-window-fix.js` from this repo.
+2. Copy it into the `Extensions` folder inside the path that `spicetify path userdata` prints.
+3. Run `spicetify config extensions tiled-window-fix.js`
+4. Run `spicetify apply`
