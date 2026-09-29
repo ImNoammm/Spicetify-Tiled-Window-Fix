@@ -1,0 +1,9 @@
+{
+  "name": "Tiled Window Fix",
+  "description": "Keeps the now-playing bar visible when Spotify's window is smaller than 800x600, like in Hyprland or other tiling window managers.",
+  "preview": "after.png",
+  "main": "tiled-window-fix.js",
+  "readme": "README.md",
+  "authors": [{ "name": "ImNoammm", "url": "https://github.com/ImNoammm" }],
+  "tags": ["hyprland", "tiling", "layout"]
+}
